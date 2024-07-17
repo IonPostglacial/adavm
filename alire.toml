@@ -1,0 +1,12 @@
+name = "adavm"
+description = "A small VM written using Ada"
+version = "0.1.0-dev"
+
+authors = ["Nicolas Galipot"]
+maintainers = ["Nicolas Galipot <nicolas.galipot@gmail.com>"]
+maintainers-logins = ["IonPostglacial"]
+licenses = "Apache-2.0"
+website = ""
+tags = ["lang", "vm"]
+
+executables = ["adavm"]
