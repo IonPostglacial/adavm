@@ -1,4 +1,4 @@
-with "config/adavm_config.gpr";
+with "./config/adavm_config.gpr";
 project Adavm is
 
    for Source_Dirs use ("src/", "config/");
